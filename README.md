@@ -34,3 +34,15 @@
 To complete the Workshop, each of the Partner organizations will require a person with the following role / activities:
 
 ![Audience](https://jporeilly.github.io/Pentaho-Training/assets/img/audience.png)
+
+### Important
+Certis Training - 04062018-08062018
+Aries
+Joanne
+Eric See
+
+Repository:
+https://github.com/ksericpro/pentaho-secondlens
+
+Email:
+ericks_see@certissecurity.com
