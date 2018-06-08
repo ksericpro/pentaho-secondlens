@@ -36,7 +36,10 @@ To complete the Workshop, each of the Partner organizations will require a perso
 ![Audience](https://jporeilly.github.io/Pentaho-Training/assets/img/audience.png)
 
 ### Important
-Certis Training - 04062018-08062018
+Certis Training
+(04062018-08062018)
+
+Personnel:
 Aries
 Joanne
 Eric See
@@ -46,3 +49,12 @@ https://github.com/ksericpro/pentaho-secondlens
 
 Email:
 ericks_see@certissecurity.com
+
+Directory Structure:
+
+Documentation (Design Docs, Backlog, Powerpoint, Architecture)
+Secondhand_Lens (Development Folder)
+PRD Reports (All the Reports generated)
+ERR diagrams (All the ERD for staging, olap databases)
+References (Al the help documents mostly Pentaho)
+
