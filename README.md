@@ -41,7 +41,9 @@ Certis Training
 
 Personnel:
 Aries
+
 Joanne
+
 Eric See
 
 Repository:
@@ -53,8 +55,12 @@ ericks_see@certissecurity.com
 Directory Structure:
 
 Documentation (Design Docs, Backlog, Powerpoint, Architecture)
+
 Secondhand_Lens (Development Folder)
+
 PRD Reports (All the Reports generated)
+
 ERR diagrams (All the ERD for staging, olap databases)
+
 References (Al the help documents mostly Pentaho)
 
